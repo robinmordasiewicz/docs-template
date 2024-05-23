@@ -113,8 +113,6 @@ markdown_extensions:
       alternate_style: true
       combine_header_slug: true
       slugify: "!!python/object/apply:pymdownx.slugs.slugify"
-      kwds:
-        case: lower
 
 plugins:
   - glightbox
