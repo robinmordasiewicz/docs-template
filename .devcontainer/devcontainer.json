@@ -1,0 +1,4 @@
+{
+  "image": "docker.io/robinmordasiewicz/autogenstudio:latest",
+  "initializeCommand": "docker pull docker.io/robinmordasiewicz/autogenstudio:latest"
+}
