@@ -36,7 +36,6 @@ extra_css: [extra.css]
 
 theme:
   name: material
-  custom_dir: docs/overrides
   include_sidebar: false
   logo: logo.svg
   favicon: favicon.ico
