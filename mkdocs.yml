@@ -16,15 +16,6 @@ extra:
   annotate:
     json: [.s2]
   generator: false
-  social:
-    - icon: custom/fc-lib-facebook
-      link: https://www.facebook.com/Fortinet/
-    - icon: custom/fc-lib-twitter
-      link: https://x.com/Fortinet
-    - icon: custom/fc-lib-youtube
-      link: https://www.youtube.com/@fortinet
-    - icon: custom/fc-lib-linkedin
-      link: https://www.linkedin.com/company/fortinet
 
 validation:
   omitted_files: warn
